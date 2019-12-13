@@ -1,9 +1,9 @@
 # Scraping Google's Search Engine Results Page
 *Note: Sometimes the meta-description does not line up with the meta-title or URL!*
 
-This is a tool to help marketers easily track how their website is ranking on priority keywords, track movement when it comes to a specific search (keep an eye on competitors), and to collect information keywords and phrases that are helping sites rank higher when it comes to Google.
+This is a tool to help marketers easily track how their website is ranking on priority keywords, track movement when it comes to a specific search (keep an eye on competitors), and to collect information on keywords and phrases that are helping sites rank higher when it comes to Google.
 
-This script also will save a csv file everytime you execute it with the search that you made and the day's date. I believe that this will be worthwhile to keep in a Google Drive folder and merge so you can see just how active a certain search term is on Google over time. 
+This script will also save a .csv file everytime you execute it—using the search that you made and the day's date as the title. 
 
 ## How it Works
 1. Run this script in your command line.
@@ -17,6 +17,6 @@ This script also will save a csv file everytime you execute it with the search t
 
 ## What's Next
 * Find out how to make sure the meta-description aligns with the meta-title and url. 
-* Create a new column using regular expressions and extracting just the domain name and placing it as the column next to the ranking
+* Create a new column using regular expressions that extracts just the domain name.
 * Create a graph that visualizes movement over time. Something along these lines: 
 ![sample graph for next steps](https://www.coretennis.net/ct/1/image/Players/Graphs/topPointsAtp.png)
